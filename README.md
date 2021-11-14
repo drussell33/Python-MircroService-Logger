@@ -1,0 +1,1 @@
+Using Python to create a microservice for an activity logger. uses pip, nginx, heroku, mongodb, to uses a web API RESTful service to send the activity logs to a microservice.
