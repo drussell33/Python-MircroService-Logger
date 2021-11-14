@@ -1,0 +1,15 @@
+*.pyc
+*.settings
+dev.settings
+test.settings
+test.env
+/.pytest_cache/
+.coverage
+/htmlcov/
+praw.ini
+wolfit_dev.db
+wolfit_test.db
+.vscode/
+.idea
+.DS_STORE
+

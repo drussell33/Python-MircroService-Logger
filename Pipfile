@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+requests = "*"
+httpie = "*"
+mongoengine = "*"
+gunicorn = "*"
+dnspython = "*"
+celery = "*"
+
+[dev-packages]
+pytest = "*"
+coverage = "*"
+
+[requires]
+python_version = "3.8"
